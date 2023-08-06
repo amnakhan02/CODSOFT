@@ -1,3 +1,4 @@
+//CODE FOR CALCULATOR PERFORMING DIFFERENT OPERATIONS
 #include<iostream>
 using namespace std;
 int main()
